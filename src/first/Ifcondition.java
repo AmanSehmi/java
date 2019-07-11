@@ -5,7 +5,7 @@ public class Ifcondition {
 	public static void main(String[] args) 
 	{
 		//if condition
-		int age =25;
+		int age =20;
 		if(age>18)
 		{
 		
