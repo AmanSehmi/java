@@ -10,7 +10,7 @@ public class Ifcondition {
 		if(g>18)
 		{
 		
-			System.out.print("Adult");
+			System.out.print("18+");
 		
 		}
 
