@@ -1,12 +1,13 @@
 package first;
-
+import.util.*;
 public class Ifcondition {
 
 	public static void main(String[] args) 
 	{
 		//if condition
-		int age =20;
-		if(age>18)
+		 Scanner i = new Scanner(System.in); 
+		int g =i.nextInt();
+		if(g>18)
 		{
 		
 			System.out.print("Adult");
