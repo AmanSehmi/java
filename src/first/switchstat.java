@@ -12,7 +12,7 @@ public class switchstat {
 				break;
 		case 30:System.out.println("30"); 
 				break;		
-		default:System.out.println("Invalid"); 
+		default:System.out.println("Invalid value entered"); 
 				break;		
 		}
 			

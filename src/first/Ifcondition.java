@@ -1,5 +1,5 @@
 package first;
-import.util.*;
+import java.util.Scanner;
 public class Ifcondition {
 
 	public static void main(String[] args) 
